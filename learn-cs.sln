@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The C# Player's Guide", "The C# Player's Guide\The C# Player's Guide.csproj", "{A1D3E928-B6E7-4FE4-B965-F5331CF5CAEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "The C# Player's Guide", "The C# Player's Guide", "{9469D9D1-7773-4CBE-93EA-3B10E95B5A92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level 3", "Level 3", "{81FA2D86-707E-4D1E-9E49-0F50E5FAC6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World!", "The C# Player's Guide\Level 3\Hello World!\Hello World!.csproj", "{5DC7A9EC-3B13-4016-9B5F-F52676C5846F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What Comes Next", "The C# Player's Guide\Level 3\What Comes Next\What Comes Next.csproj", "{B524D9B1-A511-48B4-81BD-076311077B6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Makings of a Programmer", "The C# Player's Guide\Level 3\The Makings of a Programmer\The Makings of a Programmer.csproj", "{039E2296-3959-493D-AEBB-D73FE3E5FD3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consolas and Telim", "The C# Player's Guide\Level 3\Consolas and Telim\Consolas and Telim.csproj", "{5077AF54-524C-4C77-BB0B-F32E525EE64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D3E928-B6E7-4FE4-B965-F5331CF5CAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D3E928-B6E7-4FE4-B965-F5331CF5CAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D3E928-B6E7-4FE4-B965-F5331CF5CAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D3E928-B6E7-4FE4-B965-F5331CF5CAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC7A9EC-3B13-4016-9B5F-F52676C5846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC7A9EC-3B13-4016-9B5F-F52676C5846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC7A9EC-3B13-4016-9B5F-F52676C5846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC7A9EC-3B13-4016-9B5F-F52676C5846F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B524D9B1-A511-48B4-81BD-076311077B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B524D9B1-A511-48B4-81BD-076311077B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B524D9B1-A511-48B4-81BD-076311077B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B524D9B1-A511-48B4-81BD-076311077B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039E2296-3959-493D-AEBB-D73FE3E5FD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039E2296-3959-493D-AEBB-D73FE3E5FD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039E2296-3959-493D-AEBB-D73FE3E5FD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039E2296-3959-493D-AEBB-D73FE3E5FD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5077AF54-524C-4C77-BB0B-F32E525EE64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5077AF54-524C-4C77-BB0B-F32E525EE64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5077AF54-524C-4C77-BB0B-F32E525EE64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5077AF54-524C-4C77-BB0B-F32E525EE64C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1D3E928-B6E7-4FE4-B965-F5331CF5CAEA} = {9469D9D1-7773-4CBE-93EA-3B10E95B5A92}
+		{81FA2D86-707E-4D1E-9E49-0F50E5FAC6DC} = {9469D9D1-7773-4CBE-93EA-3B10E95B5A92}
+		{5DC7A9EC-3B13-4016-9B5F-F52676C5846F} = {81FA2D86-707E-4D1E-9E49-0F50E5FAC6DC}
+		{B524D9B1-A511-48B4-81BD-076311077B6E} = {81FA2D86-707E-4D1E-9E49-0F50E5FAC6DC}
+		{039E2296-3959-493D-AEBB-D73FE3E5FD3B} = {81FA2D86-707E-4D1E-9E49-0F50E5FAC6DC}
+		{5077AF54-524C-4C77-BB0B-F32E525EE64C} = {81FA2D86-707E-4D1E-9E49-0F50E5FAC6DC}
+	EndGlobalSection
+EndGlobal
